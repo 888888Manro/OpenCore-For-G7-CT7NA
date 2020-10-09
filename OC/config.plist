@@ -338,14 +338,6 @@
 	<dict>
 		<key>Add</key>
 		<dict/>
-		<key>Delete</key>
-		<dict/>
-		<key>LegacyEnable</key>
-		<false/>
-		<key>LegacyOverwrite</key>
-		<false/>
-		<key>LegacySchema</key>
-		<dict/>
 		<key>WriteFlash</key>
 		<false/>
 	</dict>
