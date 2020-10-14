@@ -184,24 +184,15 @@
 			<string>None</string>
 			<key>DmgLoading</key>
 			<string>Signed</string>
-			<key>ExposeSensitiveData</key>
-			<integer>3</integer>
 			<key>HaltLevel</key>
 			<integer>2147483648</integer>
 			<key>SecureBootModel</key>
 			<string>Default</string>
 			<key>ScanPolicy</key>
-			<integer>19603203</integer>
+			<integer>27991811</integer>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
-	</dict>
-	<key>NVRAM</key>
-	<dict>
-		<key>Add</key>
-		<dict/>
-		<key>WriteFlash</key>
-		<false/>
 	</dict>
 	<key>PlatformInfo</key>
 	<dict>
@@ -235,7 +226,7 @@
 		<key>UpdateSMBIOS</key>
 		<true/>
 		<key>UpdateSMBIOSMode</key>
-		<string>Create</string>
+		<string>Auto</string>
 	</dict>
 	<key>UEFI</key>
 	<dict>
@@ -252,7 +243,7 @@
 			<key>KeySupport</key>
 			<true/>
 			<key>KeySupportMode</key>
-			<string>V2</string>
+			<string>Auto</string>
 		</dict>
 		<key>Output</key>
 		<dict>
