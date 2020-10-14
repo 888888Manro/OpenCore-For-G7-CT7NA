@@ -157,22 +157,11 @@
 			<key>AppleXcpmCfgLock</key>
 			<true/>
 		</dict>
-		<key>Scheme</key>
-		<dict>
-			<key>KernelArch</key>
-			<string>Auto</string>
-			<key>KernelCache</key>
-			<string>Auto</string>
-		</dict>
 	</dict>
 	<key>Misc</key>
 	<dict>
 		<key>Boot</key>
 		<dict>
-			<key>HibernateMode</key>
-			<string>None</string>
-			<key>PickerMode</key>
-			<string>Builtin</string>
 			<key>ShowPicker</key>
 			<true/>
 			<key>Timeout</key>
@@ -180,14 +169,8 @@
 		</dict>
 		<key>Security</key>
 		<dict>
-			<key>BootProtect</key>
-			<string>None</string>
-			<key>DmgLoading</key>
-			<string>Signed</string>
 			<key>HaltLevel</key>
 			<integer>2147483648</integer>
-			<key>SecureBootModel</key>
-			<string>Default</string>
 			<key>ScanPolicy</key>
 			<integer>27991811</integer>
 			<key>Vault</key>
@@ -202,8 +185,6 @@
 		<dict>
 			<key>MLB</key>
 			<string>C02020300J900001H</string>
-			<key>SystemMemoryStatus</key>
-			<string>Auto</string>
 			<key>ROM</key>
 			<data>qHRb3LHr</data>
 			<key>SystemProductName</key>
@@ -243,8 +224,6 @@
 		<dict>
 			<key>ProvideConsoleGop</key>
 			<true/>
-			<key>TextRenderer</key>
-			<string>BuiltinGraphics</string>
 		</dict>
 		<key>Quirks</key>
 		<dict>
