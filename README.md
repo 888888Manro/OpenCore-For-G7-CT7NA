@@ -7,4 +7,4 @@ Boot Windows10 & Mac10.15.7
 
 不要更换VoodooPS2Controller.kext,换了亮度调节Fn+F8,Fn+F9会变。
 
-本引导不需要AirportBrcmFixup.kext,WhateverGreen.kext这俩个。
+本引导不需要WhateverGreen.kext这个。
