@@ -87,50 +87,6 @@
 					<key>WakeDelay</key>
 					<integer>10</integer>
 				</dict>
-				<key>HPQOEM</key>
-				<dict>
-					<key>1411</key>
-					<string>ProBook</string>
-					<key>1619</key>
-					<string>ProBook</string>
-					<key>161C</key>
-					<string>ProBook</string>
-					<key>164F</key>
-					<string>ProBook</string>
-					<key>167C</key>
-					<string>ProBook</string>
-					<key>167E</key>
-					<string>ProBook</string>
-					<key>1680</key>
-					<string>ProBook</string>
-					<key>179B</key>
-					<string>ProBook</string>
-					<key>179C</key>
-					<string>ProBook</string>
-					<key>17A9</key>
-					<string>ProBook</string>
-					<key>17F0</key>
-					<string>ProBook</string>
-					<key>17F3</key>
-					<string>ProBook</string>
-					<key>17F6</key>
-					<string>ProBook</string>
-					<key>1942</key>
-					<string>ProBook</string>
-					<key>1949</key>
-					<string>ProBook</string>
-					<key>198F</key>
-					<string>ProBook</string>
-					<key>ProBook</key>
-					<dict>
-						<key>WakeDelay</key>
-						<integer>0</integer>
-					</dict>
-					<key>ProBook-102</key>
-					<string>ProBook</string>
-					<key>ProBook-87</key>
-					<string>ProBook</string>
-				</dict>
 			</dict>
 			<key>RM,deliverNotifications</key>
 			<true/>
