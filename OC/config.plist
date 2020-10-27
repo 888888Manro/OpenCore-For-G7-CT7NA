@@ -205,14 +205,11 @@
 	</dict>
 	<key>UEFI</key>
 	<dict>
-		<key>ConnectDrivers</key>
-		<true/>
-		<key>Drivers</key>
-		<array>
-			<string>OpenRuntime.efi</string>
-			<string>HFSPlus.efi</string>
-			<string>apfs.efi</string>
-		</array>
+		<key>APFS</key>
+		<dict>
+			<key>EnableJumpstart</key>
+			<true/>
+		</dict>
 		<key>Input</key>
 		<dict>
 			<key>KeySupport</key>
