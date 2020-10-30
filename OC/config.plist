@@ -145,17 +145,17 @@
 	<dict>
 		<key>Boot</key>
 		<dict>
+			<key>HideAuxiliary</key>
+			<true/>
 			<key>ShowPicker</key>
 			<true/>
 			<key>Timeout</key>
-			<integer>0</integer>
+			<integer>24</integer>
 		</dict>
 		<key>Security</key>
 		<dict>
 			<key>HaltLevel</key>
 			<integer>2147483648</integer>
-			<key>ScanPolicy</key>
-			<integer>19603203</integer>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
