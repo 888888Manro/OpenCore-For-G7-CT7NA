@@ -171,6 +171,25 @@
 	<dict>
 		<key>Automatic</key>
 		<true/>
+		<key>CustomMemory</key>
+		<false/>
+		<key>Memory</key>
+		<dict>
+			<key>DataWidth</key>
+			<integer>0</integer>
+			<key>ErrorCorrection</key>
+			<integer>3</integer>
+			<key>FormFactor</key>
+			<integer>0</integer>
+			<key>MaxCapacity</key>
+			<integer>0</integer>
+			<key>TotalWidth</key>
+			<integer>0</integer>
+			<key>Type</key>
+			<integer>2</integer>
+			<key>TypeDetail</key>
+			<integer>4</integer>
+		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
@@ -212,16 +231,6 @@
 			<true/>
 			<key>KeySupportMode</key>
 			<string>Auto</string>
-		</dict>
-		<key>Output</key>
-		<dict>
-			<key>ProvideConsoleGop</key>
-			<true/>
-		</dict>
-		<key>Quirks</key>
-		<dict>
-			<key>IgnoreInvalidFlexRatio</key>
-			<true/>
 		</dict>
 	</dict>
 </dict>
