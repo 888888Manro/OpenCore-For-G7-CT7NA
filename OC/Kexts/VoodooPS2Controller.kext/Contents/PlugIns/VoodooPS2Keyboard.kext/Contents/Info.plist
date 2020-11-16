@@ -67,9 +67,6 @@
 					<key>Custom PS2 Map</key>
 					<array>
 						<string>;Items must be strings in the form of scanfrom=scanto (in hex)</string>
-						<string>e078=e037</string>
-						<string>e077=e037</string>
-						<string>e037=0</string>
 					</array>
 					<key>HIDF12EjectDelay</key>
 					<integer>250</integer>
