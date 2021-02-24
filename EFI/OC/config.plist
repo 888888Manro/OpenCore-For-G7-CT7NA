@@ -454,7 +454,7 @@
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
-			<integer>5</integer>
+			<integer>0</integer>
 		</dict>
 		<key>Debug</key>
 		<dict>
@@ -473,7 +473,7 @@
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
-			<integer>67</integer>
+			<integer>0</integer>
 		</dict>
 		<key>Entries</key>
 		<array/>
